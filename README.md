@@ -30,7 +30,7 @@ The dataset was sourced from ICEA LION Group. Datasets provided for the analysis
 Datasets Used:
 
 1.  train_data_cross-sell.csv
-This dataset contains information about customers who have an active  life insuarance cover.Features captured are id(customer unique indentifier) , Gender,Customer_Date_of_Birth, Driving_License,Customer_Residence_Sub_County,Previously_Insured,Vehicle_Year_of_Manufacture,Vehicle_Damage,Annual_Premium,Agent_name,Life_policy_start_date,Response .This dataset contains the target variable "Response" and will be utilized for training the model  
+This dataset contains information about customers who have an active  life insuarance cover.Features captured are id(customer unique indentifier) , Gender,Customer_Date_of_Birth, Driving_License, Customer_Residence_Sub_County, Previously_Insured, Vehicle_Year_of_Manufacture, Vehicle_Damage, Annual_Premium, Agent_name, Life_policy_start_date, Response .This dataset contains the target variable "Response" and will be utilized for training the model  
 
    
 2. test_data_cross-sell.csv: This dataset resembles the training dataset but does not include the target-related variable

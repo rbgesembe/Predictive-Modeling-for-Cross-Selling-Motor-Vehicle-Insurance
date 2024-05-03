@@ -56,10 +56,16 @@ Engineering New Columns
 Deriving statistics from the data
 
 ![Response by Gender](https://github.com/rbgesembe/Predictive-Modeling-for-Cross-Selling-Motor-Vehicle-Insurance/assets/146054184/5d10bf73-b4d3-4539-8c4f-a02e9f96e536)
+
 There is no significant variance on customer gender in terms of willingness to purchase motor vehicle insurance.(Reception low on both)
 
+
+
 ![Top 10 counties ](https://github.com/rbgesembe/Predictive-Modeling-for-Cross-Selling-Motor-Vehicle-Insurance/assets/146054184/75832b2a-d8ce-4e62-a9ac-3f0540bb32d0)
+
 Embakasi and Kasarani have the highest numbers of life insurance policies compared to the rest of the subcounties
+
+
 
 ![Response by Age](https://github.com/rbgesembe/Predictive-Modeling-for-Cross-Selling-Motor-Vehicle-Insurance/assets/146054184/5b38edc5-ddcf-412c-ac60-9bd80f3e2d31)
 

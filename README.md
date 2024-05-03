@@ -1,4 +1,4 @@
-# Predisctive model for cross selling motor vehicle Insuarance
+# Predictive model for cross selling motor vehicle Insuarance
 
 **Author:** DSPT05 - Group 9
 

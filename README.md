@@ -132,9 +132,8 @@ We tested the following models:
 
 1. Target previously insured customers through policy upgrades & renewal incentives.
 2. Customize marketing messages for customers who have experienced previous vehicle damage, emphasize on comprehensive coverage.
-3. Consider age-specific needs.
-4. Provide customized insurance options based on the age of the vehicle to ensure all customers receive comprehensive protection.
-5. Utilize sales agents for personalized recommendations.
+3. Provide customized insurance options based on the age of the vehicle to ensure all customers receive comprehensive protection.
+4. Utilize sales agents for personalized recommendations.
 
 
 

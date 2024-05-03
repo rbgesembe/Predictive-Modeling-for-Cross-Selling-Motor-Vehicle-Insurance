@@ -110,7 +110,6 @@ We tested the following models:
   
 - ![Different models accuracy](https://github.com/rbgesembe/Predictive-Modeling-for-Cross-Selling-Motor-Vehicle-Insurance/assets/146054184/db104398-3c57-4c41-8d37-433d76aa9035)
   
-![Feature importance after tuning Random forest model](https://github.com/rbgesembe/Predictive-Modeling-for-Cross-Selling-Motor-Vehicle-Insurance/assets/146054184/45406ddb-0242-4b39-b90c-15597bd1b21e)
 
 
 ## Findings

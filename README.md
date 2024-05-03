@@ -17,7 +17,11 @@ Cross-selling presents significant challenges for insurance companies like ident
 ## Objectives 
 
 1.Identify factors that influence life insurance policy holders interest in motor vehicle insurance.
+
+
 2.Evaluate performance of different machine learning models in insurance cross-selling by comparing accuracy metrics.
+
+
 3.Identify machine learning model that shows superior performance in predicting the likelihood of a customer accepting an offer for vehicle insurance.
 
 

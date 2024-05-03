@@ -118,9 +118,13 @@ We tested the following models:
 
 ## Findings
 -We’ve 12% chance of converting a customer with a DL compared to 5% without DL
+
 -Males are 4% likely to buy policy compared to females
+
 -23% of policy holders previously insured are likely to buy motor vehicle policy
+
 -Gen X(1965-1980) and Millennials(1981-1996) are more likely to buy motor vehicle policy
+
 -Customers with history of accidents/repairs 23% likely to buy motor vehicle policy
 
 
